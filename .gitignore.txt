@@ -1,0 +1,19 @@
+# Java
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Secrets
+application.properties
+
+# Logs
+*.log
